@@ -1,5 +1,5 @@
 {
-    "name": "wanshi-captcha",
+    "name": "wanshi/captcha",
     "autoload": {
         "psr-4": {
             "Wanshi\\Captcha\\": "src/"

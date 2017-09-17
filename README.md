@@ -13,7 +13,7 @@
 ],
 
 "require": {
-    "wanshi-captcha": "dev-master"
+    "wanshi/captcha": "dev-master"
 }
 ```
 
